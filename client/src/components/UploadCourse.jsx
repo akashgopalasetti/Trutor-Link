@@ -25,7 +25,7 @@ const UploadCourse = () => {
     }
 
     try {
-      await axios.post("http://localhost:5000/api/courses/add", form, {
+      await axios.post("https://trutor-link.onrender.com/api/courses/add", form, {
         headers: { Authorization: `Bearer ${token}` },
       });
       setForm({ courseName: "", description: "", price: "", videoLink: "" });

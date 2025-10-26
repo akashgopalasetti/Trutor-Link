@@ -35,17 +35,20 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="about">
-        <h2>About TutorLink</h2>
-        <p>
-          TutorLink is a simple yet powerful MERN-based web app that connects students and tutors.  
-          Students can explore available courses, while tutors can upload content and manage their sessions efficiently.
-        </p>
-        <p>
-          Our mission is to make quality education more accessible and personal.  
-          Whether you’re looking to <strong>learn</strong> or <strong>teach</strong>, TutorLink helps you achieve your goals.
-        </p>
-      </section>
+<section className="about">
+  <h2>About TutorLink</h2>
+  <p>
+    <strong>TutorLink</strong> is a user-friendly MERN-based platform designed to seamlessly connect students with tutors.  
+    Students can browse and enroll in courses that match their interests, while tutors can effortlessly upload, manage, and share their content.
+  </p>
+  <p>
+    Our mission is to make <strong>quality education accessible</strong> to everyone.  
+    Whether you aim to <strong>learn</strong> new skills or <strong>teach</strong> your expertise, TutorLink provides the tools to help you achieve your goals efficiently and effectively.
+  </p>
+  <p>
+    Join our growing community and experience a personalized approach to learning and teaching, all in one intuitive platform.
+  </p>
+</section>
 
       
     </div>

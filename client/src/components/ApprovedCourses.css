@@ -1,0 +1,17 @@
+/* ApprovedCourses.css */
+.approved-courses {
+  padding: 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.approved-courses h2 {
+  color: #2c3e50;
+  margin-bottom: 15px;
+}
+
+.courses {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+}

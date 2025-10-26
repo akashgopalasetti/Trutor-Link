@@ -38,7 +38,7 @@ export default function Home() {
 <section className="about">
   <h2>About TutorLink</h2>
   <p>
-    <strong>TutorLink</strong> is a user-friendly MERN-based platform designed to seamlessly connect students with tutors.  
+    <strong>TutorLink</strong> is a user-friendly platform designed to seamlessly connect students with tutors.  
     Students can browse and enroll in courses that match their interests, while tutors can effortlessly upload, manage, and share their content.
   </p>
   <p>

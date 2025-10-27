@@ -25,7 +25,7 @@ Tutors also need a better way to:
 
 TutorLink solves all these issues in one place.
 
-## 🧩 Features
+##  Features
 
 # Student Features
 - View all available courses  
